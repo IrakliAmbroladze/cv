@@ -83,3 +83,43 @@ Software Engineer with a unique interdisciplinary background combining technical
 - **Corporate Banker** – Bank of Georgia, developed financial analysis skills  
 - **Startup Manager** – SeeMe Georgia (Auto-Park Management System)  
 - **Sales Manager** – VENGO (Cargo Transit)  
+
+---
+
+## Education  
+
+- **Doctoral Studies (Ongoing)** – Ilia State University *(2017 – Present)*  
+  - Faculty of Arts and Sciences – Interdisciplinary Doctoral Program  
+  - Research Focus: *Social History of Contemporary Georgian Literature (2000-2020)*  
+  - **International Academic Experience:**  
+    - Universidad de Valladolid, Spain *(2020)* – Doctoral Research  
+    - Université Catholique de Louvain, Belgium *(2019)* – Doctoral Research  
+
+- **Master's in Comparative Literature** – Ilia State University *(2015 – 2017)*  
+  - Thesis: *"The death of the author as a key element of the story in the postmodern novel"*  
+
+- **Master's in Philosophy** – Ivane Javakhishvili Tbilisi State University *(2013 – 2015)*  
+  - Thesis: *"Text, Intertext, Cultural context"*  
+
+- **Bachelor's in Business Administration** – Free University of Tbilisi *(2009 – 2013)*  
+  - Major: Business Administration  
+  - Minor: Programming  
+
+---
+
+## Certifications & Training  
+
+### Software Development  
+- Cloud & DevOps – EPAM *(current)*  
+- Automated Testing in JavaScript – EPAM *(current)*  
+- React Accelerator Program – TBC Academy *(2025)*  
+- Front-End Programming with React – New Horizons *(2025)* – 32 hours, 28 PDUs  
+- International Certification by PeopleCert – React Certification Exam *(2025)*  
+
+### Professional Development  
+- Teaching and Assessment Strategies – Ilia State University *(2016)*  
+- Social Entrepreneurship – Oikos Summer School *(2014)*  
+- Negotiations and Conflicts – Free University *(2012)*  
+
+### Academic Recognition  
+- National Mathematical Olympiad Diploma *(2005, 2006)*  
