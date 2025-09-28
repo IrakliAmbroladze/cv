@@ -122,4 +122,30 @@ Software Engineer with a unique interdisciplinary background combining technical
 - Negotiations and Conflicts – Free University *(2012)*  
 
 ### Academic Recognition  
-- National Mathematical Olympiad Diploma *(2005, 2006)*  
+- National Mathematical Olympiad Diploma *(2005, 2006)*
+
+---
+
+## Languages  
+- **Georgian:** Native  
+- **English:** C1 (Advanced)  
+- **Russian:** B1 (Intermediate)  
+- **Spanish:** A1 (Beginner)  
+- **French:** A1 (Beginner)  
+
+---
+
+## Additional Activities  
+
+- **Founder – Literary Sunday School (Your Library | 2019 – 2020)**  
+  - Organized and managed educational literary programs  
+  - Developed curriculum and coordinated community engagement initiatives  
+
+- **Media Experience**  
+  - *Literary Taxi* – Author’s program on literature *(2018 – 2019)*  
+  - Enhanced communication skills and ability to present complex ideas clearly  
+
+---
+
+## Personal Interests  
+Reading, Chess, Sports, Technology Trends, Business Process Optimization  
