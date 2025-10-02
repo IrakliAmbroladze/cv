@@ -3,6 +3,7 @@
   --muted: #6b7280;
   --border: #e6e7eb;
   --bg: #ffffff;
+  --rootbg: #f7f8fb;
   font-family:
     Inter,
     Roboto,
@@ -17,7 +18,7 @@ html,
 body {
   height: 100%;
   margin: 0;
-  background: #f7f8fb;
+  background: var(--rootbg);
 }
 .container {
   max-width: 900px;
@@ -40,10 +41,10 @@ h1 {
   color: var(--accent);
 }
 
-.image3x4 {
-  height: 200px;
-  width: 150px;
-  margin: 50px;
+.avatar {
+  height: 379px;
+  width: 253px;
+  background: var(--rootbg);
 }
 .subtitle {
   margin: 6px 0 0;
