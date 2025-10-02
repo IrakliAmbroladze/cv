@@ -21,7 +21,7 @@ body {
   background: var(--rootbg);
 }
 .container {
-  max-width: 900px;
+  max-width: 595px;
   margin: 36px auto;
   background: var(--bg);
   box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06);
