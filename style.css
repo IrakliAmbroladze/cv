@@ -27,7 +27,7 @@ body {
   box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06);
   padding: 40px;
 }
-header {
+main {
   display: flex;
 }
 
@@ -111,6 +111,10 @@ h1 {
   font-size: 14px;
   color: var(--muted);
 }
+
+.bio {
+}
+
 .contact {
   min-width: 240px;
   text-align: left;
