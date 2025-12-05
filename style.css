@@ -27,7 +27,7 @@ body {
   box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06);
   padding: 40px;
 }
-header {
+main {
   display: flex;
 }
 
@@ -101,15 +101,53 @@ h1 {
   height: 1px;
   background-color: black;
 }
+
 .square {
   width: 8px;
   height: 8px;
+  flex-shrink: 0;
+}
+
+.bg-black {
   background-color: black;
+}
+.bg-white {
+  background-color: white;
 }
 .subtitle {
   margin: 6px 0 0;
   font-size: 14px;
   color: var(--muted);
+}
+
+.bio {
+  display: flex;
+  margin-top: 32px;
+}
+
+.about-me {
+  background-color: #1e1e1e;
+  display: flex;
+  padding: 16px;
+  color: white;
+}
+
+.bio-subsection-header {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+  padding-left: 4px;
+  border-left: 1px solid #494949;
+  text-align: end;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 13px;
+  letter-spacing: 0.12em;
+}
+
+.square-wrapper {
+  transform: rotate(180deg);
 }
 .contact {
   min-width: 240px;
@@ -158,8 +196,33 @@ ul {
   justify-content: space-between;
 }
 .small {
-  font-size: 13px;
-  color: var(--muted);
+  display: inline-block;
+  line-height: 13px;
+  font-size: 8px;
+  color: #fff;
+  font-weight: 600;
+  font-style: italic;
+  margin: 0 10px 0 16px;
+}
+
+.contact {
+  display: flex;
+  padding: 20px;
+  margin: 0;
+}
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  line-height: 13px;
+  letter-spacing: 0.12em;
+  font-size: 10px;
+  margin: 0 0 0 16px;
+}
+
+.contact-list li {
+  display: flex;
+  gap: 4px;
 }
 
 footer {
@@ -175,7 +238,6 @@ footer {
   }
   .contact {
     text-align: left;
-    margin-top: 8px;
   }
   .right-card {
     border-left: none;
