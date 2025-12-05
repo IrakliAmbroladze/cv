@@ -123,16 +123,16 @@ h1 {
 .bio {
   display: flex;
   margin-top: 32px;
-  color: white;
 }
 
 .about-me {
   background-color: #1e1e1e;
   display: flex;
   padding: 16px;
+  color: white;
 }
 
-.about-me h2 {
+.bio-subsection-header {
   writing-mode: vertical-lr;
   text-orientation: mixed;
   transform: rotate(180deg);
@@ -145,6 +145,7 @@ h1 {
   line-height: 13px;
   letter-spacing: 0.12em;
 }
+
 .square-wrapper {
   transform: rotate(180deg);
 }
@@ -204,6 +205,26 @@ ul {
   margin: 0 10px 0 16px;
 }
 
+.contact {
+  display: flex;
+  padding: 20px;
+  margin: 0;
+}
+.contact-list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  line-height: 13px;
+  letter-spacing: 0.12em;
+  font-size: 10px;
+  margin: 0 0 0 16px;
+}
+
+.contact-list li {
+  display: flex;
+  gap: 4px;
+}
+
 footer {
   margin-top: 20px;
   font-size: 13px;
@@ -217,7 +238,6 @@ footer {
   }
   .contact {
     text-align: left;
-    margin-top: 8px;
   }
   .right-card {
     border-left: none;
