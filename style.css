@@ -123,13 +123,13 @@ h1 {
 .bio {
   display: flex;
   margin-top: 32px;
-  color: white;
 }
 
 .about-me {
   background-color: #1e1e1e;
   display: flex;
   padding: 16px;
+  color: white;
 }
 
 .about-me h2 {
