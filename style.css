@@ -22,10 +22,10 @@ body {
 }
 .container {
   max-width: 595px;
-  margin: 36px auto;
+  margin: 12px auto;
+  padding: 10px;
   background: var(--bg);
   box-shadow: 0 8px 30px rgba(15, 23, 42, 0.06);
-  padding: 40px;
 }
 main {
   display: flex;
@@ -38,8 +38,8 @@ h1 {
 }
 
 .avatar {
-  height: 337px;
-  width: 253px;
+  max-height: 200px;
+  max-width: 153px;
   background: var(--rootbg);
 }
 
@@ -51,41 +51,41 @@ h1 {
 
 .title-top,
 .title-bottom {
-  padding: 4px 24px;
+  padding: 4px 12px;
 }
 .title-top {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 100px;
+  height: 50px;
 }
 .title-bottom {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  height: 170px;
+  height: 130px;
   background-color: #f1f1f1;
 }
 
 .cv {
   font-size: 10px;
 }
-.name {
-  font-size: 32px;
-  font-weight: bold;
-}
+.name,
 .surname {
-  font-size: 32px;
+  font-size: 18px;
+}
+.name {
+  font-weight: bold;
 }
 
 .profession {
-  font-size: 16px;
+  font-size: 10px;
   text-transform: uppercase;
   font-style: italic;
 }
 .quote {
   font-size: 8px;
-  line-height: 16px;
+  line-height: 12px;
   max-width: 170px;
 }
 
