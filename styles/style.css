@@ -282,11 +282,30 @@ footer {
 
 /* print */
 @media print {
-  body {
-    background: white;
+  @page {
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  html,
+  body {
+    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
   .container {
-    box-shadow: none;
-    border-radius: 0;
+    width: 595px !important;
+    max-width: 595px !important;
+    margin: 0 auto !important;
+    background: white !important;
+    box-shadow: none !important;
+    box-sizing: border-box !important;
   }
 }
