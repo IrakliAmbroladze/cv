@@ -37,6 +37,97 @@ export const MAIN_GRID_CONTENT = [
         description:
           "Founded and successfully operate service-based business with 10+ recurring clients. Developed internal ERP system to manage operations, scheduling, and finances. Applied technical skills to automate business processes and improve efficiency.",
       },
+      {
+        title: "Lecturer",
+        subtitle: "University of Georgia 2018 – 2020",
+        description:
+          "Taught Critical Writing courses, developing structured analytical thinking skills. Enhanced communication abilities and capacity to explain complex concepts clearly. Skills directly applicable to technical documentation and team collaboration.",
+      },
+    ],
+  },
+  {
+    title: "Certifications",
+    data: [
+      {
+        title: "React Accelerator Program",
+        subtitle: "TBC Academy (2025)",
+        description: "",
+      },
+      {
+        title: "International Certification - React",
+        subtitle: "React Certification Exam (2025) by PeopleCert",
+        description: "",
+      },
+      {
+        title: "Cloud & DevOps",
+        subtitle: "EPAM (current)",
+        description: "",
+      },
+    ],
+  },
+  {
+    title: "Technical Skills",
+    data: [
+      {
+        title: "Languages",
+        subtitle: "JavaScript, TypeScript, Basic Rust, Basic Java, Rust + WASM",
+        description: "",
+      },
+      {
+        title: "Frontend",
+        subtitle: "React.js, Next.js, HTML5, CSS3",
+        description: "",
+      },
+      {
+        title: "Backend & DB",
+        subtitle: "Rust, Node.js, Supabase, Postgress, REST APIs",
+        description: "",
+      },
+    ],
+  },
+  {
+    title: "Education",
+    data: [
+      {
+        title: "Master's Degree in Philosophy",
+        subtitle: "Ivane Javakhishvili Tbilisi State University 2013 – 2015",
+        description: `Thesis: "Text, Intertext, Cultural context"`,
+      },
+      {
+        title: "Bachelor's Degree in Business Administration",
+        subtitle: "Free University of Tbilisi 2009 – 2013",
+        description: "Major: Business Administration; Minor: Programming",
+      },
+    ],
+  },
+  {
+    title: "Languages",
+    data: [
+      {
+        title: "Georgian — Native",
+        subtitle: "",
+        description: "",
+      },
+      {
+        title: "English — C1 (Advanced)",
+        subtitle: "",
+        description: "",
+      },
+      {
+        title: "Russian — B1 (Intermediate)",
+        subtitle: "",
+        description: "",
+      },
+      {
+        title: "Spanish — A1 (Beginner)",
+        subtitle: "",
+        description: "",
+      },
+      {
+        title: "French — A1 (Beginner)",
+        subtitle: "",
+        description: "",
+      },
     ],
   },
 ];
