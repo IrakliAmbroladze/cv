@@ -32,6 +32,12 @@ export const MAIN_GRID_CONTENT = [
     title: "Experience",
     data: [
       {
+        title: "React Developer",
+        subtitle: "ImediL (Insurance Company) — 2026 Feb – Present",
+        description:
+          "Developing and maintaining web applications using React.js, with a focus on reusable and scalable frontend solutions. Collaborating with marketing and operations teams to deliver digital solutions that support business processes and customer-facing initiatives.",
+      },
+      {
         title: "Softare Engineer",
         subtitle: "(Freelance / Personal Projects) — 2020 – Present",
         description:
