@@ -3,6 +3,14 @@ export const MAIN_GRID_CONTENT = [
     title: "Key Projects",
     data: [
       {
+        title: "Online Zoo",
+        subtitle: "(Personal Project) — React, TypeScript, Vite, SCSS",
+        description:
+          "A responsive animal-focused web application featuring user authentication, dynamic animal data, search, favorites, and interactive sliders. Developed with React and TypeScript with a focus on reusable components, responsive design, and API integration.",
+        live_url: "https://rsschool-online-zoo-rho.vercel.app/",
+        source_code: "https://github.com/IrakliAmbroladze/rsschool-online-zoo",
+      },
+      {
         title: "Primal training",
         subtitle: "(Personal Project) — HTML, SCSS",
         description:
