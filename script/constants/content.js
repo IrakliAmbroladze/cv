@@ -69,6 +69,11 @@ export const MAIN_GRID_CONTENT = [
     title: "Certifications",
     data: [
       {
+        title: "JS/FE SHORT TRACK 2026 Q1 (JAVASCRIPT)",
+        subtitle: "RS School (2026)",
+        description: "",
+      },
+      {
         title: "React Accelerator Program",
         subtitle: "TBC Academy (2025)",
         description: "",
@@ -76,11 +81,6 @@ export const MAIN_GRID_CONTENT = [
       {
         title: "International Certification - React",
         subtitle: "React Certification Exam (2025) by PeopleCert",
-        description: "",
-      },
-      {
-        title: "Cloud & DevOps",
-        subtitle: "EPAM (current)",
         description: "",
       },
     ],
