@@ -3,6 +3,14 @@ export const MAIN_GRID_CONTENT = [
     title: "Key Projects",
     data: [
       {
+        title: "Online Zoo",
+        subtitle: "(Personal Project) — React, TypeScript, Vite, SCSS",
+        description:
+          "A responsive animal-focused web application featuring user authentication, dynamic animal data, search, favorites, and interactive sliders. Developed with React and TypeScript with a focus on reusable components, responsive design, and API integration.",
+        live_url: "https://rsschool-online-zoo-rho.vercel.app/",
+        source_code: "https://github.com/IrakliAmbroladze/rsschool-online-zoo",
+      },
+      {
         title: "Primal training",
         subtitle: "(Personal Project) — HTML, SCSS",
         description:
@@ -31,6 +39,12 @@ export const MAIN_GRID_CONTENT = [
   {
     title: "Experience",
     data: [
+      {
+        title: "React Developer",
+        subtitle: "ImediL (Insurance Company) — 2026 Feb – Present",
+        description:
+          "Developing and maintaining web applications using React.js, with a focus on reusable and scalable frontend solutions. Collaborating with marketing and operations teams to deliver digital solutions that support business processes and customer-facing initiatives.",
+      },
       {
         title: "Softare Engineer",
         subtitle: "(Freelance / Personal Projects) — 2020 – Present",
