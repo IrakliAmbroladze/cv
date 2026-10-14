@@ -90,7 +90,7 @@ export const MAIN_GRID_CONTENT = [
     data: [
       {
         title: "Languages",
-        subtitle: "JavaScript, TypeScript, Basic Rust, Basic Java, Rust + WASM",
+        subtitle: "JavaScript, TypeScript, Rust, C#",
         description: "",
       },
       {
